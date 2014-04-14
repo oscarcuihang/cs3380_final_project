@@ -1,0 +1,63 @@
+.input_form{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 320px;
+	font-size: 14px;
+	padding: 50px 50px 50px 50px;
+}
+
+.input_field{
+	margin-bottom: 5px;
+	width: 160px;
+	
+}
+
+label{
+	display: inline-block;
+	width: 150px;
+	color: whitesmoke;
+	opacity: .8;
+}
+
+#change_container{
+	position: absolute;
+	width: 200px;
+	margin-top: 100px;
+	right: 50%;
+	z-index: 100;
+}
+
+#login{
+	display: inline-block;
+	color: darkgray;
+	width: 75px;
+	padding: 5px;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+	cursor: pointer;
+}
+
+#register{
+	display: inline-block;
+	color: darkgray;
+	width: 75px;
+	padding: 5px;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+	cursor: pointer;
+}
+
+
+#submit{
+	width: 70px;
+	margin-right: 5px;
+}
+
+#logHead{
+	color: whitesmoke;
+	opacity: .8;
+}
+
+#message{
+	color: whitesmoke;
+	opacity: .8;
+}

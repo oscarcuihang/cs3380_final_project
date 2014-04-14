@@ -1,0 +1,161 @@
+
+#search_form{
+	z-index: 50;
+	margin-right: 10px;
+	margin-top: 25px;
+	width: 250px;
+	display: block;
+	float: right;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+}
+
+#search_field{
+	width: 160px;
+	height: 17px;
+	font-size: 10px;
+	margin-left: 20px;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+}
+
+#search_button{
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+	text-align: center;
+	height: 19px;
+	vertical-align: middle;
+}
+
+#search_button:hover{
+	opacity: .75;
+}
+
+/*Used for input forms*/
+#fill_content{
+	position: absolute;
+	margin-top: 100px;
+	width: 650px;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+}
+
+/*Used for input forms*/
+#text_fill{
+	display: inline-block;
+	width: 320px;
+	margin-left: 20px;
+	color: whitesmoke;
+	opacity: .8;
+	clear: both;
+}
+
+/*Used for input forms*/
+#register{
+	display: inline-block;
+	color: darkgray;
+	width: 75px;
+	padding: 5px;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+	cursor: pointer;
+}
+
+
+/*Used for input forms*/
+#submit{
+	width: 120px;
+	margin-right: 5px;
+}
+
+
+
+#logHead{
+	color: whitesmoke;
+	opacity: .8;
+}
+
+#message{
+	color: whitesmoke;
+	opacity: .8;
+}
+
+#edit_form{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 320px;
+	font-size: 14px;
+	padding: 50px 50px 50px 50px;
+}
+
+#request_form{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 320px;
+	font-size: 14px;
+	padding: 50px 50px 50px 50px;
+}
+
+#add_movie{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 320px;
+	font-size: 14px;
+	padding: 50px 50px 50px 50px;
+}
+
+.input_field{
+	margin-bottom: 5px;
+	width: 160px;
+	
+}
+
+label{
+	display: inline-block;
+	width: 150px;
+	color: whitesmoke;
+	opacity: .8;
+}
+
+/*Text pop up box*/
+.helpSmall{
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+	font-size: 12px;
+}
+
+.option{
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+#ratebox{
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif !important;
+	font-size: 12px !important;
+	text-align: center !important;
+}
+
+#rate{
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif !important;
+	font-size: 12px !important;
+	text-align: center !important;
+}
+
+#ratevalue{
+	display: inline-block;
+	width: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+#userreview{
+	display: inline-block;
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+

@@ -1,0 +1,23 @@
+div#admin_menu {
+	width : 150px;
+	float : left;
+}
+
+div.menu_element:hover {
+	text-align : right;
+	background-color : grey;
+	border-radius : 10px;
+	color : white;
+	padding : 10px;
+}
+
+div.menu_element {
+	width : 100px;
+	padding : 10px;
+	height : 10px;
+}
+
+div#admin_content {
+	width : 450px;
+	float : left;
+}

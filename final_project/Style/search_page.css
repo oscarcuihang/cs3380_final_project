@@ -1,0 +1,29 @@
+#login_position{
+	position: absolute;
+	margin-top: 100px;
+	width: 650px;
+	font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+}
+
+#text{
+margin-left: 20px;
+	font-size: 24px;
+	color: whitesmoke;
+}
+
+#text_big{
+margin-left: 20px;
+	font-size: 36px;
+	color: whitesmoke;
+}
+
+#text_1{
+margin-left: 20px;
+	font-size: 36px;
+	color: whitesmoke;
+	opacity: .8;
+}
+
+#input_box{
+	margin-left: 20px;
+}
